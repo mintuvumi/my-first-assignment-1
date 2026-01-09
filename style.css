@@ -281,6 +281,7 @@ nav .menu a{
   background-color: #111;
   padding: 20px 0;
   color: #fff;
+  margin-top: 50px;
 }
 .footer-container{
   width: 70%;
@@ -296,6 +297,7 @@ nav .menu a{
 }
 .footer-copy{
   font-size: 14px;
+  
   
 }
 .social-links h4{
