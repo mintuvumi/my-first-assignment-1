@@ -276,3 +276,39 @@ nav .menu a{
   font-size: 16px;
   margin-bottom: 20px;
 }
+
+.footer{
+  background-color: #111;
+  padding: 20px 0;
+  color: #fff;
+}
+.footer-container{
+  width: 70%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.logo-image img{
+  height: 50px;
+}
+.footer-copy{
+  font-size: 14px;
+  
+}
+.social-links h4{
+  font-size: 20px;
+  font-weight: 500;
+}
+.social-links a{
+  color: #fff;
+  margin-left: 15px;
+  font-size: 18px;
+  transition: all .5s ease;
+}
+.social-links a:hover{
+  color: rgb(12, 167, 79);
+  
+}
